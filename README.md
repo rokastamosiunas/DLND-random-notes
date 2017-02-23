@@ -1,2 +1,5 @@
 # DLND-random-notes
-Udacity nanodegree program
+
+Notes and mini projects created during Udacity deep learning nanodegree program.
+
+Udacity nanodegree program: https://www.udacity.com/course/deep-learning-nanodegree-foundation--nd101
